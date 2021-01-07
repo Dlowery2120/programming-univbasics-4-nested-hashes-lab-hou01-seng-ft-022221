@@ -85,7 +85,7 @@ def adding_matz
         :languages => ["C"]
       }
     }
- puts adding_matz
+ p adding_matz
 end
 
 def changing_alan
